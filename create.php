@@ -17,7 +17,7 @@
                 <a href="" class="btn btn-primary">Back to Book List</a>
             </div>
         </header>
-        <form action="" method="post">
+        <form action="process.php" method="post">
             <div class="form-element my-4">
                 <input type="text" class="form-control" name="title" placeholder="Book Title:">
             </div>
